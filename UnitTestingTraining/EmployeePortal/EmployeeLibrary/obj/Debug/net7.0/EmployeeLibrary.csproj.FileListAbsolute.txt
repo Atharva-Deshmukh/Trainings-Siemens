@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\bin\Debug\net7.0\EmployeeLibrary.deps.json
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\bin\Debug\net7.0\EmployeeLibrary.dll
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\bin\Debug\net7.0\EmployeeLibrary.pdb
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.dll
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\obj\Debug\net7.0\refint\EmployeeLibrary.dll
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\obj\Debug\net7.0\EmployeeLibrary.pdb
+C:\Users\Administrator\Desktop\UnitTestingTraining\EmployeePortal\EmployeeLibrary\obj\Debug\net7.0\ref\EmployeeLibrary.dll

@@ -1,0 +1,13 @@
+--> Ability to register students of Engineering, Science and Commerce
+--> Actions such as Calculating Marks obtained, updating records, show student records, show records in a collection
+
+BONUS: Ability to store records in a collection
+
+--> Proper unit testing needs to be performed
+--> code should be designed in such a way that there is always scope of update and easy modification
+
+BONUS: Follow SOLID principles!
+
+--> Ensure Exception handling as well with custom exceptions wherever applicable
+
+--> This will be a solution with library, console app and nunit testing project. Also documentation is a must

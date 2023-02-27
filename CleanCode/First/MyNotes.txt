@@ -1,0 +1,51 @@
+	                SEARCH THESE topics: 
+
+Design patterns
+
+					VS CODE shortcuts: 
+
+(ctrl + ~)  -> terminal laao and remove
+(ctrl + B)  -> side bar laao and remove
+(ctrl + K + W)  -> Closes all files in VS Codes
+(ctrl + P)  -> File search [SAVES TIME IN LARGE PROJECTS]
+(ctrl + L)  -> clears terminal
+(ctrl + tab)  -> changes tab and holding it gives dropdown list of tabs
+
+(fn + f2)  -> changes variables names everywhere. highlight variable firstS
+
+					NOTES C#
+
+Naming pattern for functions():
+    >>PascalCase use hoga [TotalValue]  used for: functions,variables, class name, variables(non-private)
+        also
+        camelCase -> [firstDecondThirdFourth...] userd for: Private data member of a class
+        snake_casing -> [atharva_deshmukh]
+        kebab-casing -> [atharva-deshmukh]
+
+    >>never write any fun() without giving a comment or gist above that tells what it does
+
+>>C# is 
+    statically & strongly typed and  compiled language 
+    supports all Programming paradigms
+    java ki tarah bytecode(its an intermediary code) bnata hai
+
+>> Programming paradigms:
+    structural/procedural
+    Object oriented
+    Functional Programming 
+
+
+>> Identation
+    jaha jaha blocks khatam hore vaha spaces diya karo
+    operators and operands me space hona chaiye
+
+>> There should be ONLY ONE layer of abstraction in the code
+    one Level of abstraction: One function has one purpose only
+
+>> Technical debt
+
+
+
+
+
+

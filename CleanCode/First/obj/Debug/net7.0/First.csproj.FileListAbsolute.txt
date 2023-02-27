@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CleanCode\First\bin\Debug\net7.0\First.exe
+C:\Users\Administrator\Desktop\CleanCode\First\bin\Debug\net7.0\First.deps.json
+C:\Users\Administrator\Desktop\CleanCode\First\bin\Debug\net7.0\First.runtimeconfig.json
+C:\Users\Administrator\Desktop\CleanCode\First\bin\Debug\net7.0\First.dll
+C:\Users\Administrator\Desktop\CleanCode\First\bin\Debug\net7.0\First.pdb
+C:\Users\Administrator\Desktop\CleanCode\First\obj\Debug\net7.0\First.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CleanCode\First\obj\Debug\net7.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CleanCode\First\obj\Debug\net7.0\First.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CleanCode\First\obj\Debug\net7.0\First.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CleanCode\First\obj\Debug\net7.0\First.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CleanCode\First\obj\Debug\net7.0\First.dll
+C:\Users\Administrator\Desktop\CleanCode\First\obj\Debug\net7.0\refint\First.dll
+C:\Users\Administrator\Desktop\CleanCode\First\obj\Debug\net7.0\First.pdb
+C:\Users\Administrator\Desktop\CleanCode\First\obj\Debug\net7.0\First.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CleanCode\First\obj\Debug\net7.0\ref\First.dll

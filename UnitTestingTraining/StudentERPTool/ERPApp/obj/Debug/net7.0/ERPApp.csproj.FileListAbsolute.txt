@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPApp\obj\Debug\net7.0\ERPApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPApp\obj\Debug\net7.0\ERPApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPApp\obj\Debug\net7.0\ERPApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPApp\obj\Debug\net7.0\ERPApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPApp\obj\Debug\net7.0\ERPApp.csproj.CoreCompileInputs.cache

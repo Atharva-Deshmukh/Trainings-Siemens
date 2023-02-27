@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\bin\Debug\net7.0\ERPLibrary.deps.json
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\bin\Debug\net7.0\ERPLibrary.dll
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\bin\Debug\net7.0\ERPLibrary.pdb
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\obj\Debug\net7.0\ERPLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\obj\Debug\net7.0\ERPLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\obj\Debug\net7.0\ERPLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\obj\Debug\net7.0\ERPLibrary.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\obj\Debug\net7.0\ERPLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\obj\Debug\net7.0\ERPLibrary.dll
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\obj\Debug\net7.0\refint\ERPLibrary.dll
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\obj\Debug\net7.0\ERPLibrary.pdb
+C:\Users\Administrator\Desktop\UnitTestingTraining\StudentERPTool\ERPLibrary\obj\Debug\net7.0\ref\ERPLibrary.dll

@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "ERPLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ERPLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ERPLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ERPLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ERPLibrary/ERPLibrary.csproj",
+      "msbuildProject": "../ERPLibrary/ERPLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "ERPLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\UnitTestingTraining\\StudentERPTool\\ERPApp\\ERPApp.csproj",
+      "projectName": "ERPApp",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\UnitTestingTraining\\StudentERPTool\\ERPApp\\ERPApp.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\UnitTestingTraining\\StudentERPTool\\ERPApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Administrator\\Desktop\\UnitTestingTraining\\StudentERPTool\\ERPLibrary\\ERPLibrary.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\UnitTestingTraining\\StudentERPTool\\ERPLibrary\\ERPLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
